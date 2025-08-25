@@ -1,18 +1,18 @@
 {
-    "id": 101,
+    "id": 132,
     "name": "Peeves",
     "tags": [],
-    "author": "someguy69"
+    "author": "Hellcat3GDC"
     "creators": [],
-    "verifier": "",
+    "verifier": "Hellcat3GDC",
     "verification": "",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
-            "user": "guy",
+            "user": "test",
             "link": "",
-            "percent": 100,
+            "percent": 69,
             "hz": 120
             
         }
