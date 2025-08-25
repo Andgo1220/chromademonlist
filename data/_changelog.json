@@ -23,7 +23,7 @@
 		"name": "Peeves",
 		"to_rank": 3,
 		"from_rank": null,
-		"above": Chaos,
+		"above": "Chaos",
 		"below": "Verdant Power"
 	},
     {
