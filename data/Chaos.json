@@ -1,7 +1,10 @@
 {
     "id": 126,
     "name": "Chaos",
-    "tags": [],
+    "tags": [
+        "Test1",
+        "Test2"
+    ],
     "author": "Hellcat3GDC"
     "creators": [],
     "verifier": "Hellcat3GDC",
