@@ -1,20 +1,23 @@
 {
     "id": 141,
     "name": "KAOTIC",
-    "tags": [],
-    "author": "Lucio"
-    "creators": [],
+    "author": "Lucio",
+    "tags": [
+        "Star Rate"
+    ],
+    "creators": [
+        "Lucio"
+    ],
     "verifier": "Lucio",
-    "verification": "",
+    "verification": "https://www.youtube.com/watch?v=Uky3BixaaDc",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
             "user": "test",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=Uky3BixaaDc",
             "percent": 69,
             "hz": 420
-            
         }
     ]
 }
