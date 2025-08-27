@@ -1,17 +1,21 @@
 {
     "id": 138,
     "name": "Verdant Power",
-    "tags": [],
+    "tags": [
+        Epic
+    ],
     "author": "XSniper999"
-    "creators": [],
+    "creators": [
+        
+    ],
     "verifier": "XSniper999",
-    "verification": "",
+    "verification": "https://www.youtube.com/watch?v=Uky3BixaaDc",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
             "user": "test",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=Uky3BixaaDc",
             "percent": 69,
             "hz": 420
             
