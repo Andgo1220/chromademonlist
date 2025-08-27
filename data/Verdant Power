@@ -3,7 +3,7 @@
     "name": "Verdant Power",
     "author": "XSniper999"
     "tags": [
-        Epic
+        "Epic"
     ],
     "creators": [
         "XSniper999"
@@ -18,7 +18,6 @@
             "link": "https://www.youtube.com/watch?v=Uky3BixaaDc",
             "percent": 69,
             "hz": 420
-            
         }
     ]
 }
