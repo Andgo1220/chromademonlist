@@ -1,21 +1,23 @@
 {
     "id": 132,
     "name": "Peeves",
-    "tags": [],
-    "author": "Hellcat3GDC"
-    "creators": [],
+    "author": "Hellcat3GDC",
+    "tags": [
+        "Epic"
+    ],
+    "creators": [
+        "Hellcat3GDC"
+    ],
     "verifier": "Hellcat3GDC",
-    "verification": "",
+    "verification": "https://www.youtube.com/watch?v=Uky3BixaaDc",
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
         {
             "user": "test",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=Uky3BixaaDc",
             "percent": 69,
-            "hz": 120
-            
+            "hz": 420
         }
     ]
-    
 }
