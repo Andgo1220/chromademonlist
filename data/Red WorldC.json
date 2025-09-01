@@ -13,6 +13,11 @@
     "percentToQualify": 100,
     "password": "Free Copy",
     "records": [
-        
+        {
+            "user": "Lucio",
+            "link": "https://www.youtube.com/watch?v=Cacs0a883KE",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
